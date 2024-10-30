@@ -37,7 +37,7 @@ public class PresioDeTerrenoController {
             txtFldPrecio.setText(String.valueOf(t.calcularPrecio()));
         } catch (NumberFormatException exc) {
             Alert alert = new Alert(Alert.AlertType.ERROR,"Error el valor Numerico", ButtonType.OK);
-            alert.setTitle("Error");
+            alert.setTitle("hubo un error");
             alert.setHeaderText("");
             alert.showAndWait();
 
