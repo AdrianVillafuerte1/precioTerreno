@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="de91abb4-88ff-42e0-8c93-787f97c61ea9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/uiejemplos/preciodeterreno/HelloApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/uiejemplos/preciodeterreno/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/uiejemplos/preciodeterreno/PresioDeTerrenoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/uiejemplos/preciodeterreno/modelos/Terreno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/uiejemplos/preciodeterreno/modelos/hello-view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/uiejemplos/preciodeterreno/tests/Pruebas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/uiejemplos/preciodeterreno/PreciodeTerrenoVista.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/uiejemplos/preciodeterreno/hello-view.fxml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2nZF6ZDwNMj4ijSDJGLuoPWk3yj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.HelloApplication.executor": "Run",
+    "JUnit.All in PreciodeTerreno (1).executor": "Run",
+    "JUnit.All in PreciodeTerreno.executor": "Run",
+    "JUnit.Pruebas.executor": "Run",
+    "JUnit.Pruebas.pruebaCalcularPrecio.executor": "Run",
+    "JUnit.Pruebas.pruebasCalcularArea.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_directory_selection": "C:/Users/Rog Strix/IdeaProjects/PreciodeTerreno/src/main/java/com/uiejemplos/preciodeterreno",
+    "last_opened_file_path": "C:/Users/Rog Strix/IdeaProjects/PreciodeTerreno",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Rog Strix\IdeaProjects\PreciodeTerreno\src\main\java\com\uiejemplos\preciodeterreno\modelos" />
+      <recent name="C:\Users\Rog Strix\IdeaProjects\PreciodeTerreno\src\main\java\com\uiejemplos\preciodeterreno\controladores" />
+      <recent name="C:\Users\Rog Strix\IdeaProjects\PreciodeTerreno\src\main\resources\com\uiejemplos\preciodeterreno" />
+      <recent name="C:\Users\Rog Strix\IdeaProjects\PreciodeTerreno\src\main\java\com\uiejemplos\preciodeterreno\vistas" />
+      <recent name="C:\Users\Rog Strix\IdeaProjects\PreciodeTerreno\src\main\java\com\uiejemplos\preciodeterreno" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.uiejemplos.preciodeterreno" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.Pruebas">
+    <configuration name="All in PreciodeTerreno (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PreciodeTerreno" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in PreciodeTerreno" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PreciodeTerreno" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Pruebas" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PreciodeTerreno" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.uiejemplos.preciodeterreno.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.uiejemplos.preciodeterreno.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.uiejemplos.preciodeterreno.tests.Pruebas" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Pruebas.pruebaCalcularPrecio" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PreciodeTerreno" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.uiejemplos.preciodeterreno.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.uiejemplos.preciodeterreno.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.uiejemplos.preciodeterreno.tests.Pruebas" />
+      <option name="METHOD_NAME" value="pruebaCalcularPrecio" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Pruebas.pruebasCalcularArea" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PreciodeTerreno" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.uiejemplos.preciodeterreno.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.uiejemplos.preciodeterreno.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.uiejemplos.preciodeterreno.tests.Pruebas" />
+      <option name="METHOD_NAME" value="pruebasCalcularArea" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Pruebas" />
+        <item itemvalue="JUnit.Pruebas.pruebaCalcularPrecio" />
+        <item itemvalue="JUnit.Pruebas.pruebasCalcularArea" />
+        <item itemvalue="JUnit.All in PreciodeTerreno (1)" />
+        <item itemvalue="JUnit.All in PreciodeTerreno" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="de91abb4-88ff-42e0-8c93-787f97c61ea9" name="Changes" comment="" />
+      <created>1729172519393</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729172519393</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/uiejemplos/preciodeterreno/PresioDeTerrenoController.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
